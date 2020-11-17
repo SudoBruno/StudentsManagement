@@ -1,0 +1,100 @@
+C:\Users\bruno\source\repos\projeto facul\projeto facul\bin\Debug\projeto facul.exe.config
+C:\Users\bruno\source\repos\projeto facul\projeto facul\bin\Debug\projeto facul.exe
+C:\Users\bruno\source\repos\projeto facul\projeto facul\bin\Debug\projeto facul.pdb
+C:\Users\bruno\source\repos\projeto facul\projeto facul\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\bruno\source\repos\projeto facul\projeto facul\bin\Debug\Guna.UI.dll
+C:\Users\bruno\source\repos\projeto facul\projeto facul\obj\Debug\projeto facul.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\projeto facul\projeto facul\obj\Debug\projeto_facul.Form1.resources
+C:\Users\bruno\source\repos\projeto facul\projeto facul\obj\Debug\projeto_facul.Properties.Resources.resources
+C:\Users\bruno\source\repos\projeto facul\projeto facul\obj\Debug\projeto facul.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\projeto facul\projeto facul\obj\Debug\projeto facul.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\projeto facul\projeto facul\obj\Debug\projeto facul.csproj.CopyComplete
+C:\Users\bruno\source\repos\projeto facul\projeto facul\obj\Debug\projeto facul.exe
+C:\Users\bruno\source\repos\projeto facul\projeto facul\obj\Debug\projeto facul.pdb
+C:\Users\bruno\source\repos\projeto facul\projeto facul\bin\Debug\XanderUI.dll
+C:\Users\bruno\source\repos\projeto facul\projeto facul\obj\Debug\projeto_facul.LoginForm.resources
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\bin\Debug\projeto facul.exe.config
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\bin\Debug\projeto facul.exe
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\bin\Debug\projeto facul.pdb
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto_facul.Properties.Resources.resources
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto facul.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto facul.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto facul.csproj.CopyComplete
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto facul.exe
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto facul.pdb
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto_facul.FormLogin.resources
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto_facul.SplashForm.resources
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto_facul.UserControlDashboard.resources
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto facul.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto_facul.FormCadastroProf.resources
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto_facul.UserControlAluno.resources
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto_facul.Dashboard.resources
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.Dashboard.resources
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.FormCadastroProf.resources
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.FormLogin.resources
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.SplashForm.resources
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.Properties.Resources.resources
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.UserControlAluno.resources
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.UserControlDashboard.resources
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto facul.csproj.GenerateResource.cache
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto facul.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto facul.exe
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto facul.pdb
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\bin\Debug\projeto facul.exe.config
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\bin\Debug\projeto facul.exe
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\bin\Debug\projeto facul.pdb
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\bin\Debug\MySql.Data.dll
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\bin\Debug\Google.Protobuf.dll
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\bin\Debug\Zstandard.Net.dll
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\bin\Debug\Renci.SshNet.dll
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\bin\Debug\System.Buffers.dll
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\bin\Debug\System.Memory.dll
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\bin\Debug\MySql.Data.xml
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto facul.exe.config
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto facul.csproj.CopyComplete
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.UserControlCurso.resources
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.UserControlDisciplina1.resources
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto facul.csprojAssemblyReference.cache
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.FormInserirAluno.resources
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.FormCadastrarNotas.resources
+C:\Users\bruno\Downloads\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.FormCarregarTelaDeBuscaDaDiscplina.resources
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\bin\Debug\projeto facul.exe.config
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\bin\Debug\projeto facul.exe
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\bin\Debug\projeto facul.pdb
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\bin\Debug\Google.Protobuf.dll
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\bin\Debug\Zstandard.Net.dll
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\bin\Debug\Renci.SshNet.dll
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\bin\Debug\System.Buffers.dll
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\bin\Debug\System.Memory.dll
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\bin\Debug\MySql.Data.xml
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto facul.csprojAssemblyReference.cache
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto facul.exe.config
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.Dashboard.resources
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.FormCadastrarNotas.resources
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.FormCadastroProf.resources
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.FormCarregarTelaDeBuscaDaDiscplina.resources
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.FormInserirAluno.resources
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.FormLogin.resources
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.SplashForm.resources
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.Properties.Resources.resources
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.UserControlAluno.resources
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.UserControlCurso.resources
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.UserControlDashboard.resources
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto_facul.UserControlDisciplina1.resources
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto facul.csproj.GenerateResource.cache
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto facul.csproj.CoreCompileInputs.cache
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto facul.csproj.CopyComplete
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto facul.exe
+C:\Users\luizn\source\repos\Gestor-de-Alunos-master\projeto facul\obj\Debug\projeto facul.pdb
