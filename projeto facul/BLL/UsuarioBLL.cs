@@ -14,14 +14,14 @@ namespace projeto_facul.BLL
         UsuarioDAO UsuarioDAO = new UsuarioDAO();
 
         // Cadastrar usuario.
-        
+
         public void Cadastrar(Usuario usuario)
         {
             try
             {
                 UsuarioDAO.Cadastrar(usuario);
             }
-            catch(Exception erro)
+            catch (Exception erro)
             {
                 throw erro;
             }
@@ -43,7 +43,7 @@ namespace projeto_facul.BLL
 
         // Exclusão de Usuarios
 
-        public void Excluir( int id)
+        public void Excluir(int id)
         {
             try
             {
@@ -53,7 +53,7 @@ namespace projeto_facul.BLL
             {
                 throw erro;
             }
-            
+
         }
 
         // Visualição do Usuario
@@ -69,7 +69,23 @@ namespace projeto_facul.BLL
                 throw erro;
             }
         }
+
+        // Login do usuario
+
+        public bool Logar(Usuario usuario)
+        {
+            try
+            {
+              return   
+              UsuarioDAO.Logar(usuario);
+
+            }
+            catch (Exception erro)
+            {
+                throw erro;
+            }
+        }
     }
-
-
 }
+
+

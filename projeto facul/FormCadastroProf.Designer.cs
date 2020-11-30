@@ -73,6 +73,7 @@
             this.tbUsuario.SelectedText = "";
             this.tbUsuario.Size = new System.Drawing.Size(237, 37);
             this.tbUsuario.TabIndex = 38;
+            
             // 
             // btnCadastrar
             // 
@@ -126,6 +127,7 @@
             this.tbSenha.SelectedText = "";
             this.tbSenha.Size = new System.Drawing.Size(237, 37);
             this.tbSenha.TabIndex = 34;
+           
             // 
             // gunaLinePanel2
             // 
@@ -192,6 +194,7 @@
             this.tbConfirmarSenha.SelectedText = "";
             this.tbConfirmarSenha.Size = new System.Drawing.Size(237, 37);
             this.tbConfirmarSenha.TabIndex = 41;
+            
             // 
             // gunaLabel3
             // 

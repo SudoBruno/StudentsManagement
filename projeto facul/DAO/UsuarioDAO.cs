@@ -11,6 +11,7 @@ using System.Data;
 namespace projeto_facul.DAO
 {
     public class UsuarioDAO : Conexao
+
     {
         MySqlCommand sqlCommand = null;
 
@@ -24,7 +25,7 @@ namespace projeto_facul.DAO
                     " INSERT INTO                       " +
                     "   usuario (nome, senha)           " +
                     " VALUES                            " +
-                    "   (@nome, @senha)              " ,
+                    "   (@nome, @senha)                 ",
                     strConn
                     );
 
@@ -54,7 +55,7 @@ namespace projeto_facul.DAO
                     " DELETE FROM               " +
                     "     esc                   " +
                     " WHERE                     " +
-                    "   id = @id                " ,
+                    "   id = @id                ",
                     strConn
                     );
 
@@ -73,6 +74,7 @@ namespace projeto_facul.DAO
             }
 
         }
+
         public void Alterar(Usuario usuario, int id)
         {
             try
@@ -106,6 +108,7 @@ namespace projeto_facul.DAO
                 fecharConexao();
             }
         }
+
         public void Visualizar(DataGridView dataGridView)
         {
             try
@@ -119,7 +122,7 @@ namespace projeto_facul.DAO
                     "   usuario         " +
                     " FROM              " +
                     "   ESCOLA    "
-                    
+
                     );
 
                 dataAdapter.SelectCommand = sqlCommand;
@@ -130,9 +133,9 @@ namespace projeto_facul.DAO
                 dataGridView.DataSource = dataSet;
                 dataGridView.DataMember = dataSet.Tables[0].TableName;
             }
-            catch(Exception erro)
+            catch (Exception erro)
             {
-                throw erro; 
+                throw erro;
             }
             finally
             {
@@ -141,5 +144,40 @@ namespace projeto_facul.DAO
             }
         }
 
+        public bool Logar(Usuario usuario)
+        {
+            bool result = false;
+            try
+            {
+                abrirConexao();
+                sqlCommand = new MySqlCommand
+                    (
+                    " SELECT              " +
+                    "   *                 " +
+                    " from                " +
+                    " usuario             " +
+                    " WHERE               " +
+                    "   nome = @login     " +
+                    " AND                 " +
+                    " senha = @senha      ",
+                    strConn
+                    );
+
+
+                sqlCommand.Parameters.AddWithValue("@login", usuario.NomeUsuario);
+                sqlCommand.Parameters.AddWithValue("@senha", usuario.Senha);
+
+                sqlCommand.ExecuteNonQuery();
+
+                MySqlDataReader data = sqlCommand.ExecuteReader();
+                result = data.HasRows;
+
+            }
+            catch (Exception erro)
+            {
+                throw erro;
+            }
+            return result;
+        }
     }
 }

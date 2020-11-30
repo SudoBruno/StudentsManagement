@@ -33,13 +33,13 @@
             this.gunaLabel4 = new Guna.UI.WinForms.GunaLabel();
             this.gunaLinePanel1 = new Guna.UI.WinForms.GunaLinePanel();
             this.gunaLinePanel2 = new Guna.UI.WinForms.GunaLinePanel();
-            this.gunaTextBox2 = new Guna.UI.WinForms.GunaTextBox();
+            this.tbSenhaLogin = new Guna.UI.WinForms.GunaTextBox();
             this.gunaLabel1 = new Guna.UI.WinForms.GunaLabel();
             this.gunaLabel2 = new Guna.UI.WinForms.GunaLabel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnLogin = new System.Windows.Forms.Button();
-            this.gunaTextBox1 = new Guna.UI.WinForms.GunaTextBox();
-            this.button3 = new System.Windows.Forms.Button();
+            this.tbUsuarioLogin = new Guna.UI.WinForms.GunaTextBox();
+            this.tbnCancelarLogin = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -93,21 +93,21 @@
             this.gunaLinePanel2.Size = new System.Drawing.Size(365, 10);
             this.gunaLinePanel2.TabIndex = 20;
             // 
-            // gunaTextBox2
+            // tbSenhaLogin
             // 
-            this.gunaTextBox2.BaseColor = System.Drawing.Color.White;
-            this.gunaTextBox2.BorderColor = System.Drawing.Color.Silver;
-            this.gunaTextBox2.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.gunaTextBox2.FocusedBaseColor = System.Drawing.Color.White;
-            this.gunaTextBox2.FocusedBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
-            this.gunaTextBox2.FocusedForeColor = System.Drawing.SystemColors.ControlText;
-            this.gunaTextBox2.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.gunaTextBox2.Location = new System.Drawing.Point(79, 266);
-            this.gunaTextBox2.Name = "gunaTextBox2";
-            this.gunaTextBox2.PasswordChar = '*';
-            this.gunaTextBox2.SelectedText = "";
-            this.gunaTextBox2.Size = new System.Drawing.Size(237, 37);
-            this.gunaTextBox2.TabIndex = 22;
+            this.tbSenhaLogin.BaseColor = System.Drawing.Color.White;
+            this.tbSenhaLogin.BorderColor = System.Drawing.Color.Silver;
+            this.tbSenhaLogin.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.tbSenhaLogin.FocusedBaseColor = System.Drawing.Color.White;
+            this.tbSenhaLogin.FocusedBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
+            this.tbSenhaLogin.FocusedForeColor = System.Drawing.SystemColors.ControlText;
+            this.tbSenhaLogin.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.tbSenhaLogin.Location = new System.Drawing.Point(79, 266);
+            this.tbSenhaLogin.Name = "tbSenhaLogin";
+            this.tbSenhaLogin.PasswordChar = '*';
+            this.tbSenhaLogin.SelectedText = "";
+            this.tbSenhaLogin.Size = new System.Drawing.Size(237, 37);
+            this.tbSenhaLogin.TabIndex = 22;
             // 
             // gunaLabel1
             // 
@@ -156,38 +156,38 @@
             this.btnLogin.UseVisualStyleBackColor = false;
             this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
             // 
-            // gunaTextBox1
+            // tbUsuarioLogin
             // 
-            this.gunaTextBox1.BaseColor = System.Drawing.Color.White;
-            this.gunaTextBox1.BorderColor = System.Drawing.Color.Silver;
-            this.gunaTextBox1.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.gunaTextBox1.FocusedBaseColor = System.Drawing.Color.White;
-            this.gunaTextBox1.FocusedBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
-            this.gunaTextBox1.FocusedForeColor = System.Drawing.SystemColors.ControlText;
-            this.gunaTextBox1.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.gunaTextBox1.Location = new System.Drawing.Point(79, 189);
-            this.gunaTextBox1.Name = "gunaTextBox1";
-            this.gunaTextBox1.PasswordChar = '\0';
-            this.gunaTextBox1.SelectedText = "";
-            this.gunaTextBox1.Size = new System.Drawing.Size(237, 37);
-            this.gunaTextBox1.TabIndex = 28;
-            this.gunaTextBox1.Text = " ";
-            this.gunaTextBox1.TextChanged += new System.EventHandler(this.gunaTextBox1_TextChanged);
+            this.tbUsuarioLogin.BaseColor = System.Drawing.Color.White;
+            this.tbUsuarioLogin.BorderColor = System.Drawing.Color.Silver;
+            this.tbUsuarioLogin.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.tbUsuarioLogin.FocusedBaseColor = System.Drawing.Color.White;
+            this.tbUsuarioLogin.FocusedBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
+            this.tbUsuarioLogin.FocusedForeColor = System.Drawing.SystemColors.ControlText;
+            this.tbUsuarioLogin.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.tbUsuarioLogin.Location = new System.Drawing.Point(79, 189);
+            this.tbUsuarioLogin.Name = "tbUsuarioLogin";
+            this.tbUsuarioLogin.PasswordChar = '\0';
+            this.tbUsuarioLogin.SelectedText = "";
+            this.tbUsuarioLogin.Size = new System.Drawing.Size(237, 37);
+            this.tbUsuarioLogin.TabIndex = 28;
+            this.tbUsuarioLogin.Text = " ";
+            this.tbUsuarioLogin.TextChanged += new System.EventHandler(this.gunaTextBox1_TextChanged);
             // 
-            // button3
+            // tbnCancelarLogin
             // 
-            this.button3.BackColor = System.Drawing.Color.Crimson;
-            this.button3.FlatAppearance.BorderColor = System.Drawing.Color.Crimson;
-            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.ForeColor = System.Drawing.Color.White;
-            this.button3.Location = new System.Drawing.Point(202, 326);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(116, 40);
-            this.button3.TabIndex = 29;
-            this.button3.Text = "CANCEL";
-            this.button3.UseVisualStyleBackColor = false;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.tbnCancelarLogin.BackColor = System.Drawing.Color.Crimson;
+            this.tbnCancelarLogin.FlatAppearance.BorderColor = System.Drawing.Color.Crimson;
+            this.tbnCancelarLogin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.tbnCancelarLogin.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbnCancelarLogin.ForeColor = System.Drawing.Color.White;
+            this.tbnCancelarLogin.Location = new System.Drawing.Point(202, 326);
+            this.tbnCancelarLogin.Name = "tbnCancelarLogin";
+            this.tbnCancelarLogin.Size = new System.Drawing.Size(116, 40);
+            this.tbnCancelarLogin.TabIndex = 29;
+            this.tbnCancelarLogin.Text = "CANCEL";
+            this.tbnCancelarLogin.UseVisualStyleBackColor = false;
+            this.tbnCancelarLogin.Click += new System.EventHandler(this.button3_Click);
             // 
             // FormLogin
             // 
@@ -195,12 +195,12 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(33)))), ((int)(((byte)(56)))));
             this.ClientSize = new System.Drawing.Size(395, 449);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.gunaTextBox1);
+            this.Controls.Add(this.tbnCancelarLogin);
+            this.Controls.Add(this.tbUsuarioLogin);
             this.Controls.Add(this.btnLogin);
             this.Controls.Add(this.gunaLabel2);
             this.Controls.Add(this.gunaLabel1);
-            this.Controls.Add(this.gunaTextBox2);
+            this.Controls.Add(this.tbSenhaLogin);
             this.Controls.Add(this.gunaLinePanel2);
             this.Controls.Add(this.gunaLinePanel1);
             this.Controls.Add(this.gunaLabel4);
@@ -222,12 +222,12 @@
         private Guna.UI.WinForms.GunaLabel gunaLabel4;
         private Guna.UI.WinForms.GunaLinePanel gunaLinePanel1;
         private Guna.UI.WinForms.GunaLinePanel gunaLinePanel2;
-        private Guna.UI.WinForms.GunaTextBox gunaTextBox2;
+        private Guna.UI.WinForms.GunaTextBox tbSenhaLogin;
         private Guna.UI.WinForms.GunaLabel gunaLabel1;
         private Guna.UI.WinForms.GunaLabel gunaLabel2;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button btnLogin;
-        private Guna.UI.WinForms.GunaTextBox gunaTextBox1;
-        private System.Windows.Forms.Button button3;
+        private Guna.UI.WinForms.GunaTextBox tbUsuarioLogin;
+        private System.Windows.Forms.Button tbnCancelarLogin;
     }
 }

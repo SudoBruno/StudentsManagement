@@ -14,8 +14,6 @@ namespace projeto_facul.MODELS
 
         public int Id { get; }
         public string NomeUsuario { get; set; }
-        public string Senha { get; set; }
-        
-            
+        public string Senha { get; set; }                   
     }
 }

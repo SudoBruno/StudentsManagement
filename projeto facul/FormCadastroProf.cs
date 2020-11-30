@@ -72,6 +72,8 @@ namespace projeto_facul
 
             usuarioBLL.Cadastrar(usuario);
 
-        }               
+        }
+
+        
     }
 }
