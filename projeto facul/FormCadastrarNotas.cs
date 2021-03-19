@@ -39,5 +39,10 @@ namespace projeto_facul
             FormCarregarTelaDeBuscaDaDiscplina formCarregarTelaDeBuscaDaDiscplina = new FormCarregarTelaDeBuscaDaDiscplina();
             formCarregarTelaDeBuscaDaDiscplina.ShowDialog();
         }
+
+        private void FormCadastrarNotas_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

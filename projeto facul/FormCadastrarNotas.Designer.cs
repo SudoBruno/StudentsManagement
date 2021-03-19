@@ -294,7 +294,8 @@
             this.Controls.Add(this.gunaTextBox2);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "FormCadastrarNotas";
-            this.Text = "FormCadastrarNotas";
+            this.Text = "CadastrarNotas";
+            this.Load += new System.EventHandler(this.FormCadastrarNotas_Load);
             ((System.ComponentModel.ISupportInitialize)(this.bunifuImageButton1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pesquisarIdDoCurso)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pesquisarIdDaDisciplina)).EndInit();

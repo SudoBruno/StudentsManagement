@@ -16,7 +16,7 @@ namespace projeto_facul
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SplashForm());
+            Application.Run(new FormLogin());
         }
     }
 }
