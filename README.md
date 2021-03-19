@@ -31,7 +31,7 @@ to manage students and their grades in a given subject
 
 
 ### Installing and Runnig
-> OBS: To start the project, it is necessary to have the Visual Studio Code Software installed on your machine.
+> OBS: To start the project, it is necessary to have the Visual Studio IDE Software installed on your machine.
 
 > `Download` : <https://visualstudio.microsoft.com/pt-br/thank-you-downloading-visual-studio/?sku=Community&rel=16>
 
